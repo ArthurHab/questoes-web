@@ -13,7 +13,7 @@ export default defineConfig({
       }
     }
   },
-  host: '0.0.0.0',
+  host: true,
   strictPort: true,
   port: 8000,
 })
